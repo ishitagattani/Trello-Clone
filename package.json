@@ -10,10 +10,6 @@
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",
     "prepare": "husky install"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/knowankit/trello-clone.git"
-  },
   "keywords": [],
   "author": "Ankit Kumar, Nidhi Rathee",
   "license": "MIT",
