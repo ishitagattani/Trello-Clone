@@ -13,10 +13,6 @@
   "keywords": [],
   "author": "Ankit Kumar, Nidhi Rathee",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/knowankit/trello-clone/issues"
-  },
-  "homepage": "https://github.com/knowankit/trello-clone#readme",
   "dependencies": {
     "@chakra-ui/react": "^1.5.2",
     "@emotion/react": "^11",
